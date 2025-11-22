@@ -122,4 +122,3 @@ This project is open-source and free to use for learning and academic purposes.
 ## 💡 Author
 
 Developed by **Abu Talha**
-Feel free to enhance and contribute!
